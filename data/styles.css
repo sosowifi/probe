@@ -73,6 +73,16 @@
 .paragraph1 {
   text-align:left;
 }
+.heading_21 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .shape {
 }
 .image1 {
