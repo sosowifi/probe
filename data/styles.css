@@ -73,6 +73,13 @@
 .paragraph1 {
   text-align:left;
 }
+.heading_11 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
 .heading_21 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -84,6 +91,10 @@
   text-align:left;
 }
 .shape {
+}
+.table {
+}
+.table_cell {
 }
 .image1 {
   color:#000000;
@@ -127,4 +138,7 @@
 ._连接线 {
 }
 .box_3 {
+}
+.image3 {
+  color:#000000;
 }
